@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development at Microverse**
 
-- 👨‍💻 All of my projects are available at [https://ohyajk.github.io/Portfolio-Project-Mobile-First-/](https://ohyajk.github.io/Portfolio-Project-Mobile-First-/)
-
 - 💬 Ask me about **Html, Css, Tailwind, and Javascript**
 
 - 📫 How to reach me **ohyajk@gmail.com**
