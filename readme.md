@@ -7,8 +7,7 @@
 </br>
 </p>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="center" width="400" src="https://github.com/ohyajk/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
-  </div>
+</div>
 <div align="center">
 
 🌱 I’m currently learning Full Stack Development at Microverse.
