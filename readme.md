@@ -1,6 +1,6 @@
 <div>
-<span align="center"> <img src="./flag.gif" width="80px" height="50px" alt="flag" /> </span>
-<span align="center"> <img src="./text.gif" alt="text" /> </span>
+<p align="center"> <img src="./flag.gif" width="80px" height="50px" alt="flag" /> </p>
+<p align="center"> <img src="./text.gif" alt="text" /> </p>
 <h3 align="center">A passionate web developer from India</h3>
 </div>
 <div align="center">
