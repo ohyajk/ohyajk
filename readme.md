@@ -1,8 +1,9 @@
 <div>
-<p align="center"> <img src="./text.gif" alt="text" /> </p>
+<br>
+<span align="center"> <img src="./text.gif" alt="text" /> </span>
 &nbsp;
-<p align="center"> <img src="./flag.gif" width="50px" height="50px" alt="flag" /> </p>
-
+<span align="center"> <img src="./flag.gif" width="50px" height="50px" alt="flag" /> </span>
+</br>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="center" width="400" src="https://github.com/ohyajk/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
 
