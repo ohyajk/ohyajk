@@ -13,15 +13,21 @@
 </div>
 <div align="center">
 <br align="center">
-  <a href="https://www.linkedin.com/in/ohyajk/">
+<a href="https://www.linkedin.com/in/ohyajk/">
 <img align="center" alt="in" width="36px" src="https://img.icons8.com/color/48/null/linkedin.png" />
 </a>
 &nbsp;
+<a href="https://www.twitter.com/ohyajk/">
 <img align="center" alt="tw" width="36px" src="https://img.icons8.com/color/48/null/twitter--v1.png" />
+</a>
 &nbsp;
+<a href="mailto:ohyajk@gmail.com">
 <img align="center" alt="gm" width="36px" src="https://img.icons8.com/color/48/null/gmail-new.png" />
+</a>
 &nbsp;
+<a href="https://www.youtube.com/ohyajk/">
 <img align="center" alt="yt" width="36px" src="https://img.icons8.com/color/48/null/youtube-play.png" />
+</a>
 &nbsp;
 <br>
 </div>
