@@ -23,7 +23,9 @@
 &nbsp;
 <br>
 </div>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ohyajk&label=Profile%20views&color=0e75b6&style=flat" alt="ohyajk" /> </p>
+</br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <div align="center">
 <br align="center">
