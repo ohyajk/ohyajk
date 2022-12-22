@@ -1,6 +1,6 @@
 <div>
 <p align="center"> <img src="./text.gif" alt="text" /> </p>
-<p align="center"> <img src="./flag.gif" alt="flag" /> </p>
+<p align="center"> <img src="./flag.gif" width="50px" height="50px" alt="flag" /> </p>
 
 <h3 align="center">A passionate web developer from India</h3>
 <img align="center" width="400" src="https://github.com/ohyajk/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
@@ -9,7 +9,7 @@
 
   </div>
 
-- 🔭 I’m currently working on Leaderboard.<div class="tenor-gif-embed" data-postid="17700262" data-share-method="host" data-aspect-ratio="1.6" data-width="100%"><a href="https://tenor.com/view/india-india-flag-wave-india-flag-waving-gif-17700262">India India Flag Sticker</a>from <a href="https://tenor.com/search/india-stickers">India Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+- 🔭 I’m currently working on Leaderboard.
 
 - 🌱 I’m currently learning Full Stack Development at Microverse.
 
