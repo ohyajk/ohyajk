@@ -10,9 +10,8 @@
 <img align="center" width="400" src="https://github.com/ohyajk/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ohyajk&label=Profile%20views&color=0e75b6&style=flat" alt="ohyajk" /> </p>
-
   </div>
-
+<div align="center">
 - 🔭 I’m currently working on Leaderboard.
 
 - 🌱 I’m currently learning Full Stack Development at Microverse.
@@ -23,7 +22,7 @@
 - 💬 Ask me about **React, JavaScript, Tailwind**
 
 - 📫 How to reach me **OhYaJk@Gmail.Com**
-
+</div>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
