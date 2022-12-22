@@ -13,7 +13,6 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="center" width="400" src="https://github.com/ohyajk/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
 
-<<<<<<< HEAD
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ohyajk&label=Profile%20views&color=0e75b6&style=flat" alt="ohyajk" /> </p>
 
   </div>
@@ -69,28 +68,3 @@
   </a>
 </div>
 
-<<<<<<< HEAD
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.youtube.com/ohyajk" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
-  <a href="https://linkedin.com/in/ohyajk" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://instagram.com/ohyajk" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:ohyajk@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
-  </a>
-</div>
-  </div>
-=======
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohyajk&show_icons=true&locale=en" alt="ohyajk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohyajk&" alt="ohyajk" /></p>
->>>>>>> 29452a746cb960959995e41e5f3bd2968243109c
