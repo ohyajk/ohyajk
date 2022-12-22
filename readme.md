@@ -1,36 +1,88 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1000w)
-<h1 align="center">Hi 👋, I'm Jitender Kumar</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
+<div align="center">
+<h1 align="center">Hi 👋, I'm Jitender Kumar😊</h1>
+<div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Software+Engineer!👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
+  </a>
+</h1>
+<hr>
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ohyajk&label=Profile%20views&color=0e75b6&style=flat" alt="ohyajk" /> </p>
+</div>
+<h3 align="center">A passionate web developer from India</h3>
+<img align="center" width="400" src="https://github.com/ohyajk/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
 
-<p align="left"> <a href="https://twitter.com/ohyajk" target="blank"><img src="https://img.shields.io/twitter/follow/ohyajk?logo=twitter&style=for-the-badge" alt="ohyajk" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ohyajk&label=Profile%20views&color=0e75b6&style=flat" alt="ohyajk" /> </p>
 
-- 🔭 I’m currently working on **To Do List**
+  </div>
 
-- 🌱 I’m currently learning **Full Stack Web Development at Microverse**
+- 🔭 I’m currently working on Leaderboard.
 
-- 👨‍💻 All of my projects are available at [https://ohyajk.github.io/Portfolio-Project-Mobile-First-/](https://ohyajk.github.io/Portfolio-Project-Mobile-First-/)
+- 🌱 I’m currently learning Full Stack Development at Microverse.
 
-- 💬 Ask me about **Html, Css, Tailwind, and Javascript**
+- 👨‍💻 All of my projects are available at [https://ohyajk.me/Portfolio/](https://ohyajk.me/Portfolio/)
 
-- 📫 How to reach me **ohyajk@gmail.com**
+- 💬 Ask me about **React, JavaScript, Tailwind**
 
-- ⚡ Fun fact **I have 33 teeth.**
+- 📫 How to reach me **OhYaJk@Gmail.Com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ohyajk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ohyajk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ohyajk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ohyajk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ohyajk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ohyajk" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<br>
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohyajk&show_icons=true&locale=en&layout=compact" alt="ohyajk" /></p>
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="Trungquandev">
+    <img width="315" height="173" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohyajk&show_icons=true&locale=en&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="Trungquandev">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ohyajk&show_icons=true&locale=en&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohyajk&show_icons=true&locale=en" alt="ohyajk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohyajk&" alt="ohyajk" /></p>
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.youtube.com/ohyajk" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  </a>
+  <a href="https://linkedin.com/in/ohyajk" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  </a>
+  <a href="https://instagram.com/ohyajk" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  </a>
+  <a href="mailto:ohyajk@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  </a>
+</div>
+  </div>
