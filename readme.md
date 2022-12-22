@@ -1,15 +1,4 @@
-<div align="center">
-<h1 align="center">Hi 👋, I'm Jitender Kumar😊</h1>
 <div>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Software+Engineer!👨‍💻;Nice+to+meet+you+👌+💯&center=true&size=30">
-  </a>
-</h1>
-<hr>
-<br />
-
-</div>
 <p align="center"> <img src="./text.gif" alt="text" /> </p>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="center" width="400" src="https://github.com/ohyajk/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
