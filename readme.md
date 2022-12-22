@@ -26,6 +26,8 @@
 &nbsp;
 <img align="center" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 &nbsp;
+<img align="center" alt="Ruby" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
+&nbsp;
 <img align="center" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 &nbsp;
 <img align="center" alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png">
@@ -33,8 +35,6 @@
 <img align="center" alt="Postgresql" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"  />
 &nbsp;
 <img align="center" alt="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-&nbsp;
-<img align="center" alt="Ruby" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 &nbsp;
 <img align="center" alt="Ruby on Rails" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 &nbsp;
