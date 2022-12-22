@@ -20,6 +20,14 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <div align="center">
 <br align="center">
+<img align="center" alt="HTML5" width="36px" src="https://img.icons8.com/color/48/null/linkedin.png" />
+&nbsp;
+
+<br>
+</div>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<div align="center">
+<br align="center">
 <img align="center" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 &nbsp;
 <img align="center" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
