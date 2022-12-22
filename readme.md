@@ -8,22 +8,17 @@
 </p>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="center" width="400" src="https://github.com/ohyajk/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ohyajk&label=Profile%20views&color=0e75b6&style=flat" alt="ohyajk" /> </p>
   </div>
 <div align="center">
-- 🔭 I’m currently working on Leaderboard.
+🌱 I’m currently learning Full Stack Development at Microverse.
 
-- 🌱 I’m currently learning Full Stack Development at Microverse.
+👨‍💻 All of my projects are available at [https://ohyajk.me/Portfolio/](https://ohyajk.me/Portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://ohyajk.me/Portfolio/](https://ohyajk.me/Portfolio/)
+💬 Ask me about **React, JavaScript, Tailwind**
 
-
-- 💬 Ask me about **React, JavaScript, Tailwind**
-
-- 📫 How to reach me **OhYaJk@Gmail.Com**
+📫 How to reach me **OhYaJk@Gmail.Com**
 </div>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ohyajk&label=Profile%20views&color=0e75b6&style=flat" alt="ohyajk" /> </p>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
