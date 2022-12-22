@@ -13,7 +13,9 @@
 </div>
 <div align="center">
 <br align="center">
+  <a href="https://www.linkedin.com/in/ohyajk/">
 <img align="center" alt="in" width="36px" src="https://img.icons8.com/color/48/null/linkedin.png" />
+</a>
 &nbsp;
 <img align="center" alt="tw" width="36px" src="https://img.icons8.com/color/48/null/twitter--v1.png" />
 &nbsp;
