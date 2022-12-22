@@ -11,7 +11,6 @@
 
 📫 How to reach me **OhYaJk@Gmail.Com**
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ohyajk&label=Profile%20views&color=0e75b6&style=flat" alt="ohyajk" /> </p>
 <div align="center">
 <br align="center">
 <img align="center" alt="in" width="36px" src="https://img.icons8.com/color/48/null/linkedin.png" />
@@ -24,6 +23,7 @@
 &nbsp;
 <br>
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ohyajk&label=Profile%20views&color=0e75b6&style=flat" alt="ohyajk" /> </p>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <div align="center">
 <br align="center">
