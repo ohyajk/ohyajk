@@ -1,5 +1,6 @@
 <div>
 <p align="center"> <img src="./text.gif" alt="text" /> </p>
+&nbsp;
 <p align="center"> <img src="./flag.gif" width="50px" height="50px" alt="flag" /> </p>
 
 <h3 align="center">A passionate web developer from India</h3>
