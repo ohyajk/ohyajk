@@ -30,7 +30,7 @@
 &nbsp;
 <img align="center" alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png">
 &nbsp;
-<img align="center" alt="GraphQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"  />
+<img align="center" alt="Postgresql" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"  />
 &nbsp;
 <img align="center" alt="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 &nbsp;
