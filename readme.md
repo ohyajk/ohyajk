@@ -10,9 +10,8 @@
 <img align="center" width="400" src="https://github.com/ohyajk/ReadMeProfile/blob/main/yogocat_animation.gif" alt="coding"/>
   </div>
 <div align="center">
-🌱 I’m currently learning Full Stack Development at Microverse.
 
-👨‍💻 All of my projects are available at [https://ohyajk.me/Portfolio/](https://ohyajk.me/Portfolio/)
+🌱 I’m currently learning Full Stack Development at Microverse.
 
 💬 Ask me about **React, JavaScript, Tailwind**
 
