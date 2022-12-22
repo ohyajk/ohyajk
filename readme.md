@@ -18,6 +18,7 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ohyajk&label=Profile%20views&color=0e75b6&style=flat" alt="ohyajk" /> </p>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
+
 <br>
 <img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"  />
 <img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
