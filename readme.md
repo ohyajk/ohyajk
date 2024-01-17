@@ -21,7 +21,7 @@
 <img align="center" alt="tw" width="36px" src="https://img.icons8.com/color/48/null/twitter--v1.png" />
 </a>
 &nbsp;
-<a href="mailto:ohyajk@gmail.com">
+<a href="mailto:contact@jitenderkumar.in">
 <img align="center" alt="gm" width="36px" src="https://img.icons8.com/color/48/null/gmail-new.png" />
 </a>
 &nbsp;
