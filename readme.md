@@ -9,7 +9,7 @@
 
 💬 Ask me about **React, JavaScript, Tailwind**
 
-📫 How to reach me **contact@jitenderkumar.in**
+📫 How to reach me **contact@jkweb.in**
 </div>
 <div align="center">
 <br align="center">
