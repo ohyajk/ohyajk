@@ -1,6 +1,6 @@
 <div>
 <p align="center"> <img src="./text.gif" alt="text" /> </p>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer</h3>
 </div>
 <div align="center">
 
