@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-🌱 I’m currently learning Full Stack Development at Microverse.
+🌱 I’m currently working as freelancer on Fiverr.
 
 💬 Ask me about **React, JavaScript, Tailwind**
 
@@ -20,7 +20,7 @@
 <img align="center" alt="tw" width="36px" src="https://img.icons8.com/color/48/null/twitter--v1.png" />
 </a>
 &nbsp;
-<a href="mailto:contact@jitenderkumar.in">
+<a href="mailto:contact@jkweb.in">
 <img align="center" alt="gm" width="36px" src="https://img.icons8.com/color/48/null/gmail-new.png" />
 </a>
 &nbsp;
@@ -43,21 +43,13 @@
 &nbsp;
 <img align="center" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 &nbsp;
-<img align="center" alt="Ruby" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-&nbsp;
 <img align="center" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-&nbsp;
-<img align="center" alt="Redux" width="36px" src="https://img.icons8.com/color/48/000000/redux.png">
 &nbsp;
 <img align="center" alt="Postgresql" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"  />
 &nbsp;
 <img align="center" alt="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 &nbsp;
-<img align="center" alt="Ruby on Rails" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-&nbsp;
 <img align="center" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-&nbsp;
-<img align="center" alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 &nbsp;
 <img align="center" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 &nbsp;
@@ -66,7 +58,6 @@
 </div>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="Trungquandev">
